@@ -31,12 +31,12 @@ body {
 }
 
 p {
-  margin-left: 100px;
-  margin-right: 100px;
-  font-size: 22px;
-  line-height: 40px;
-  color: #3A6E73;
-  font-family: 'Raleway', sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 22px;
+    line-height: 40px;
+    color: #3A6E73;
+    font-family: 'Raleway', sans-serif;
 }
 
 a {
@@ -68,7 +68,7 @@ h1 {
 }
 
 h2 {
-  color: #878787; /* light grey */
+  color:#878787; /* light grey */
   margin-bottom: 0;
   font-size: 70px;
   text-align: center;
@@ -89,7 +89,7 @@ h2 {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #62967c; /* sage */
+  background-color: #62967c;
   position: fixed;
   width: 100%;
 }
@@ -134,7 +134,7 @@ h2 {
 }
 
 .blog-card h2 {
-  color: #3A6E73; /* light grey */
+  color:#3A6E73; /* light grey */
   margin-top: 20px;
   font-size: 40px;
   line-height: 1.5;
@@ -150,8 +150,7 @@ h2 {
 }
 
 .column.column1 {
-  border-right: 2px dashed #dbdbdb;
-  /* light grey */
+  border-right: 2px dashed #dbdbdb; /* light grey */
 }
 
 .prof-pic {
@@ -171,7 +170,7 @@ h2 {
   width: 100%;
   padding-top: 40px;
   padding-left: 10px;
-  color: #878787; /* navy */
+  color: #878787;/* navy */
   margin-top: 0px;
   text-align: center;
   font-weight: 400;
@@ -191,6 +190,7 @@ h2 {
 }
 
 /* --------------------------- Bio --------------------------- */
+
 .skills-container {
   display: flex;
   flex-wrap: wrap;
@@ -200,7 +200,7 @@ h2 {
   margin: 40px auto 100px auto;
 }
 
-.skills-container>div {
+.skills-container > div {
   margin: 3px;
   text-align: center;
   line-height: 50px;
@@ -217,7 +217,7 @@ h2 {
 }
 
 .pro {
-  background-color: #62967c;
+  background-color: #62967c; /* sage */
 }
 
 /* --------------------------- Timeline --------------------------- */
@@ -235,10 +235,9 @@ h2 {
   font-size: 60px;
   color: #cdded5;
 }
-
 .timeline-bkg {
-  background: #62967c;
-  width: 100%;
+    background: #62967c;
+    width: 100%;
 }
 
 #timeline {
