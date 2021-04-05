@@ -174,13 +174,12 @@ h2 {
   color: #878787;/* navy */
   margin-top: 0px;
   text-align: center;
-  font-family: 'Raleway', sans-serif;
   font-weight: 400;
 }
 
 .column.column2 i {
   color: #878787; /* light grey */
-  padding: 15px;
+  padding: 25px;
 }
 
 .column.column2 i:hover {
@@ -197,11 +196,6 @@ h2 {
   display: table;
   clear: both;
 }
-
-/* --------------------------- Bio --------------------------- */
-
-
-
 
 /* --------------------------- Skills --------------------------- */
 
@@ -274,7 +268,6 @@ h2 {
   position: absolute;
   width: 2px;
   background: #cdded5;
-  /* navy */
   top: 0;
   bottom: 0;
   left: 50%;
@@ -453,7 +446,7 @@ h2 {
 .footer {
   margin-left: 0;
   background: #3A6E73;
-  padding: 20px 20px 20px 0;
+  padding: 15px 15px 15px 0;
   color: #FFFFFF;
   text-align: right;
   margin-top: 0;
