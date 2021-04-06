@@ -111,7 +111,7 @@ h2 {
 }
 
 /* --------------------------- Profile Card --------------------------- */
-.bg {
+#home {
   background: #62967c; /* sage */
   width: 100vw;
   height: 100vh;
